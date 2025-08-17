@@ -25,7 +25,7 @@ CSE366/
 │── transfer_learning_efficientnet_b0.pth # EfficientNet-B0 weights
 └── README.md # Documentation
 
-Models Included
+Models Included:
 
 1. Custom CNN (baseline)
 
@@ -52,7 +52,7 @@ iv. Ablation-CAM
 v. LIME
 
 Contribution Note:
-This was originally a group project, but completed individually.
+This was originally a group project, but I completed individually.
 Name: Mahfuz Uddin Ahmed
 ID: 2023-1-60-207
 Role: Implemented all models, integrated XAI visualizations, developed Streamlit app, prepared documentation, and completed demo.
